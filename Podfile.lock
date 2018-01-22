@@ -1,0 +1,15 @@
+PODS:
+  - SwiftLinkPreview (2.2.0)
+  - VasSonic (3.0.0-alpha)
+
+DEPENDENCIES:
+  - SwiftLinkPreview (~> 2.2.0)
+  - VasSonic (= 3.0.0-alpha)
+
+SPEC CHECKSUMS:
+  SwiftLinkPreview: ba2ec1f15a5309eb49aeabe7e20718162406aab2
+  VasSonic: 7a4d6ee6187c30468619625819f1856040e8b815
+
+PODFILE CHECKSUM: 88f823a42dcaa258237031f0a61e64f2c1014dc8
+
+COCOAPODS: 1.3.1
